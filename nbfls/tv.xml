@@ -359,7 +359,7 @@
 </item>
 <item>
 <title>HBO</title>
-<link>rtmp://178.162.199.141/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+<link></link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/HBO.png</thumbnail>
 <fanart>http://www.jamiebamberfan.com/home/images/stories/the-smoke/sky1-premiere-launch_01s.jpg</fanart>
 </item>
@@ -383,7 +383,7 @@
 </item>
 <item>
 <title>Fox 1 (Spanish/English)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -408,7 +408,7 @@
 </item>
 <item>
 <title>Comedy Central</title>
-<link>rtmp://167.114.65.88/medium/ Playpath=sp swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://tvtoss.com/channel-frames/Comedy_Central/comedy_central_usa_channel_server-1.php live=1</link>
+<link></link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Comedy%20Central%20UK.png</thumbnail>
 <fanart>http://tosh.mtvnimages.com/images/shows/toshpt0/art/season_4/a_tosh_409_parkour_mashup.jpg?width=0&height=0&quality=0.91&crop=true</fanart>
 </item>
