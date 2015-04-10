@@ -26,7 +26,7 @@
 </item>
 <item>
 <title>Box Nation</title>
-<link>http://match.dynns.com:1935/sports/boxnation/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDE1IDM6NDc6MDggUE0maGFzaF92YWx1ZT1ZZ0dSYXN4YVBoSE9sVm9UUFZHRzBBPT0mdmFsaWRtaW51dGVzPTI=</link>
+<link></link>
 <thumbnail>http://www.media15.tv/img/client-boxnation1.jpg</thumbnail>
 </item>
 <item>
@@ -81,7 +81,7 @@
 </item>
 <item>
 <title>BT Sport 2</title>
-<link>rtmpe://46.246.124.22:1935/l playpath=sbt2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive4.php?u=sbt2&vw=640&vh=400&domain=www.streamking.org live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<link></link>
 <thumbnail>http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg</thumbnail>
 <fanart>http://www.standard.co.uk/incoming/article9799682.ece/alternates/w460/RioBT.jpg</fanart>
 </item>
@@ -153,7 +153,7 @@
 </item>
 <item>
 <title>Eurosports 2</title>
-<link>http://match.dynns.com:1935/sports/eurosports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDE1IDM6NDg6MzUgUE0maGFzaF92YWx1ZT1yMG92Yk1yVnZaejcrWlZ3NVFnSkd3PT0mdmFsaWRtaW51dGVzPTI=</link>
+<link></link>
 <thumbnail>http://repository.bbtsip.tv/Logos/SPORTS/BBTS_Eurosport.png</thumbnail>
 </item>
 </items>
@@ -248,6 +248,7 @@
 <genre>Sports</genre>
 <date>Last updated on the 24.03.2015</date>
 </item>
+<item>
 <title>Setanta Sports</title>
 <link>http://match.dynns.com:1935/sports/setanta/media_w716134498_141.ts?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDE1IDM6NTA6MDQgUE0maGFzaF92YWx1ZT1DRWxFVitaUFdTaFc0QUdXQytDOXBBPT0mdmFsaWRtaW51dGVzPTI%3D</link>
 <thumbnail></thumbnail>
