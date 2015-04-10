@@ -63,7 +63,7 @@
 </item>
 <item>
 <title>BT Sport 1</title>
-<link></link>
+<link>rtmp://31.220.0.195:80/live/ playpath=bt11 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
 <thumbnail>http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg</thumbnail>
 <fanart>http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2013/8/17/1376765014687/Bt-sport-studio-006.jpg</fanart>
 </item>
@@ -75,7 +75,7 @@
 </item>
 <item>
 <title>BT Sport 2</title>
-<link></link>
+<link>rtmp://31.220.0.195:80/live/ playpath=btx22 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
 <thumbnail>http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg</thumbnail>
 <fanart>http://www.standard.co.uk/incoming/article9799682.ece/alternates/w460/RioBT.jpg</fanart>
 </item>
@@ -113,7 +113,7 @@
 </item>
 <item>
 <title>ESPN</title>
-<link></link>
+<link>rtmp://31.220.0.195:80/live/ playpath=espnxuk token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/ESPN%20UK.png</thumbnail>
 <fanart>http://www.download-hd-wallpapers.com/wp-content/uploads/2014/08/espn-sports.jpg</fanart>
 </item>
@@ -130,6 +130,21 @@
 <item>
 <genre>Sports</genre>
 <date>Last updated on the 24.03.2015</date>
+</item>
+<item>
+<title>British Eurosports</title>
+<link>rtmp://178.18.31.65:443/liverepeater playpath=191695 token=#atd%#$ZH swfUrl=http://bernardotv.club/fuckingcopy.swf live=1 timeout=13 pageUrl=http://biggestplayer.me/</link>
+<thumbnail>http://repository.bbtsip.tv/Logos/SPORTS/BBTS_Eurosport.png</thumbnail>
+</item>
+<item>
+<title>British Eurosports 2</title>
+<link>rtmp://109.123.70.38:80/live/ playpath=eurox2 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
+<thumbnail>http://repository.bbtsip.tv/Logos/SPORTS/BBTS_Eurosport.png</thumbnail>
+</item>
+<item>
+<title>Eurosports</title>
+<link></link>
+<thumbnail>http://repository.bbtsip.tv/Logos/SPORTS/BBTS_Eurosport.png</thumbnail>
 </item>
 <item>
 <title>Eurosports</title>
@@ -281,13 +296,13 @@
 </item>
 <item>
 <title>SKY SPORTS 2</title>
-<link></link>
+<link>rtmpe://46.246.29.160:1935/l playpath=sskys2 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%202%20UK.png</thumbnail>
 <fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
 </item>
 <item>
 <title>SKY SPORTS 2</title>
-<link></link>
+<link>rtmp://109.123.70.38:80/live/ playpath=s2r token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%202%20UK.png</thumbnail>
 <fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
 </item>
@@ -304,7 +319,7 @@
 </item>
 <item>
 <title>SKY Sports 3</title>
-<link></link>
+<link>rtmpe://46.246.29.160:1935/l playpath=sskys3 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.liveinfinitetv.com/sports%20content/Sky-Sports-3-Tv-logo.png</thumbnail>
 </item>
 <item>
@@ -319,6 +334,17 @@
 <fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
 </item>
 <item>
+<title>SKY SPORTS 4</title>
+<link>rtmpe://46.246.29.160:1935/l playpath=sskys4 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%204%20UK.png</thumbnail>
+<fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
+</item>
+<title>SKY SPORTS 4</title>
+<link>rtmp://31.220.0.195:80/live/ playpath=ssx4 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%204%20UK.png</thumbnail>
+<fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
+</item>
+<item>
 <title>SKY SPORTS 5</title>
 <link>rtmpe://46.246.124.22:1935/l playpath=sskys5 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%204%20UK.png</thumbnail>
@@ -326,11 +352,16 @@
 </item>
 <item>
 <title>SKY SPORTS 5</title>
-<link></link>
+<link>rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%204%20UK.png</thumbnail>
 <fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
 </item>
-
+<item>
+<title>SKY SPORTS 5</title>
+<link>rtmp://93.158.217.202:80/live/ playpath=ss5ry token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%204%20UK.png</thumbnail>
+<fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
+</item>
 <item>
 <title>SKY SPORTS F1</title>
 <link>rtmp://80.82.78.29:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH timeout=13</link>
@@ -343,7 +374,6 @@
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20F1%20UK.png</thumbnail>
 <fanart>http://excelsiorblackpool.com/wp-content/uploads/2013/06/Arsenal-Wallpaper.jpg</fanart>
 </item>
-
 <item>
 <title>Sky Sports F1</title>
 <link>rtmp://178.18.31.56:443/liverepeater playpath=191293  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191293&width=620&height=490 token=#atd%#$ZH timeout=10</link>
@@ -356,7 +386,6 @@
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20F1%20UK.png</thumbnail>
 <fanart>http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2012/3/12/1331562991242/Sky-Sports-F1-002.jpg</fanart>
 </item>
-
 <item>
 <title>Sky Sports F1</title>
 <link></link>
