@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+<!-- ################### -->
+<!-- ## UK Television ## -->
+<!-- ################### -->
+<channel>
+<name>UK Television</name>
+<thumbnail>http://thumbs.dreamstime.com/x/uk-3d-text-flag-19593094.jpg</thumbnail>
+<fanart>http://www.hdwallpapersnews.com/wp-content/uploads/2015/02/UK-Flag-High-Resolution-Wallpapers.jpg</fanart>
+<items>
+<item>
+<title>BBC1</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/14/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>BBC1</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/14/extra_big_logo.png</thumbnail>
+</item>		  
+<item>
+<title>BBC2</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/25/extra_big_logo.png</thumbnail>
+</item>		  
+<item>
+<title>BBC2</title>
+<link>http://81.23.58.184:8080/udp/0.0.0.0:20015?Vd?u</link>
+<thumbnail>http://static.filmon.com/couch/channels/25/extra_big_logo.png</thumbnail>
+</item>			  
+<item>
+<title>BBC3</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/113/extra_big_logo.png</thumbnail>
+</item>			  
+<item>
+<title>BBC4</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/103/big_logo.png</thumbnail>
+</item>
+<item>
+<title>BBC Entertainment</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?</link>
+<thumbnail>http://static.filmon.com/couch/channels/103/big_logo.png</thumbnail>
+</item>
+<item>
+<title>ITV1</title>
+<link>http://93.184.221.133/00573D/283/283-0.m3u8</link>
+<thumbnail>http://www.standard.co.uk/standard.co.uk/assets/images/londonlive/londonlive-logo.png</thumbnail>
+</item>
+<item>
+<title>ITV1</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/11/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>ITV2</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/67/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>ITV3</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/26/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>ITV4</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/101/big_logo.png</thumbnail>
+</item>
+<item>
+<title>ITV Choice</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/101/big_logo.png</thumbnail>
+</item>
+<item>
+<title>ITV Be</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/3211/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>London Live</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8</link>
+<thumbnail>http://www.standard.co.uk/standard.co.uk/assets/images/londonlive/londonlive-logo.png</thumbnail>
+</item>
+<item>
+<title>Channel 4</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/2/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>More 4</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/97/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>E4</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/65/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>Film 4</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/13/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>4Seven</title>
+<link></link>
+<thumbnail>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/3/8/1331199723416/channel4-logo-for-4seven-007.jpg</thumbnail>
+</item>
+<item>
+<title>4Seven</title>
+<link>http://93.184.221.133/00573D/292/292-0.m3u8</link>
+<thumbnail>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/3/8/1331199723416/channel4-logo-for-4seven-007.jpg</thumbnail>
+</item>
+<item>
+<title>Channel 5</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/22/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>5USA</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/845/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>Dave</title>
+<link>http://93.184.221.133/00573D/290/290-0.m3u8</link>
+<thumbnail>http://static.filmon.com/couch/channels/370/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>Quest</title>
+<link>http://93.184.221.133/00573D/287/287-0.m3u8</link>
+<thumbnail>http://static.filmon.com/couch/channels/2707/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>Yesterday</title>
+<link>http://93.184.221.133/00573D/294/294-0.m3u8</link>
+<thumbnail>http://static.filmon.com/couch/channels/1039/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>CBS Action</title>
+<link>http://93.184.221.133/00573D/711/711-0.m3u8</link>
+<thumbnail>http://www.cbsaction.tv/grfx/pl/cbs-action-logo-flag.png</thumbnail>
+</item>
+<item>
+<title>CBS Drama</title>
+<link>http://93.184.221.133/00573D/712/712-0.m3u8</link>
+<thumbnail>http://static.filmon.com/couch/channels/1805/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>CBS Reality</title>
+<link>http://93.184.221.133/00573D/713/713-0.m3u8</link>
+<thumbnail>http://static.filmon.com/couch/channels/1808/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>Pick TV</title>
+<link></link>
+<thumbnail>http://static.filmon.com/couch/channels/371/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>Pick TV</title>
+<link>http://93.184.221.133/00573D/298/298-0.m3u8</link>
+<thumbnail>http://static.filmon.com/couch/channels/371/extra_big_logo.png</thumbnail>
+</item>
+</items>
+</channel>
+<!-- ####################### -->
+<!-- ## END UK Television ## -->
+<!-- ####################### -->
+<!-- ## News Channels ## -->
+<!-- ################### -->
+<channel>
+<name>News Channels</name>
+<thumbnail>none</thumbnail>
+<fanart>none</fanart>
+<items>
+<item>
+<title>BBC News</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://static.filmon.com/couch/channels/27/extra_big_logo.png</thumbnail>
+</item>
+<item>
+<title>Bloomberg Television</title>
+<link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M12K.m3u8</link>
+<thumbnail>special://home/addons\plugin.video.world.news.live\resources\images\channels\bloomberg_en.png</thumbnail>
+</item>
+<item>
+<title>RT News (HD720P)</title>
+<link>http://odna.octoshape.net/f3f5m2v4/cds/smil:ch1_auto.smil/playlist.m3u8</link>
+<thumbnail>special://home/addons\plugin.video.world.news.live\resources\images\channels\rt.png</thumbnail>
+</item>
+<item>
+<title>Sky News</title>
+<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,828,528,264,.m3u8</link>
+<thumbnail>http://www.shadownet.ro/webplayer/thumbs/sky_news.jpg</thumbnail>
+</item>
+</items>
+</channel>
+<!-- ####################### -->
+<!-- ## END News Channels ## -->
+<!-- ############################### -->
+<!-- ## Discovery NatGeo Channels ## -->
+<!-- ############################### -->
+<channel>
+<name>Animal Planet, Discovery, NatGeo Channels</name>
+<thumbnail>none</thumbnail>
+<fanart>none</fanart>
+<items>
+<item>
+<title>Animal Planet</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Animal Planet (Rus/Eng - Duel Audio)</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.46:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>National Geographic Channel</title>
+<link>http://93.184.221.133/00573D/338/338-0.m3u8</link>
+<thumbnail>http://www.presseportal.de/bild/107804-logo-national-geographic-channel.jpg</thumbnail>
+</item>
+<item>
+<title>National Geographic Channel (Eng/Rus - Duel Audio)</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.41:1234</link>
+<thumbnail>http://www.presseportal.de/bild/107804-logo-national-geographic-channel.jpg</thumbnail>
+</item>
+<item>
+<title>Discovery I.D (Mostly English) (LQ)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery Theatre (Mostly English)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery Channel (Eng/Rus - Duel Audio)</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.45:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery Channel (LQ Mostly English)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery Science (LQ Mostly English)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC Nature</title>
+<link></link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/lmshows_ngbbc_320.jpg</thumbnail>
+</item>
+</items>
+</channel>
+<!-- ################################### -->
+<!-- ## END Discovery NatGeo Channels ## -->
+<!-- ################################### -->
+<!-- ## Kids Channels ## -->
+<!-- ################### -->
+<channel>
+<name>Kids Channels</name>
+<thumbnail>none</thumbnail>
+<fanart>none</fanart>
+<items>
+<item>
+<title>Nickelodeon (Rus/Eng - Duel Audio)</title>
+<link>http://91.205.164.201:8181/udp/239.1.5.8:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nickelodeon (Rus/Eng - Duel Audio)</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.60:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Cartoon Network (Rus/Eng - Duel Audio)</title>
+<link>http://91.205.164.201:8181/udp/239.1.5.10:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Cartoon Network (Rus/Eng - Duel Audio)</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.77:1234</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+<!-- ####################### -->
+<!-- ## END Kids Channels ## -->
+<!-- ####################### -->
+<!-- ## Misc Channels ## -->
+<!-- ################### -->
+<channel>
+<name>Misc Channels</name>
+<thumbnail>none</thumbnail>
+<fanart>none</fanart>
+<items>
+<item>
+<title>Movies For Men</title>
+<link>http://93.184.221.133/00573D/311/311-0.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>True Drama</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>True Entertainment</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>True Movies 1</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>True Movies 2</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Shoppping Channel</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox Life (Rus/Eng - Duel Audio)</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.4:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox (Rus/Eng - Duel Audio)</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.3:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FX</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?HasBahCa</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/FX%20HD.png</thumbnail>
+</item>
+<item>
+<title>HBO</title>
+<link>rtmp://178.162.199.141/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/HBO.png</thumbnail>
+<fanart>http://www.jamiebamberfan.com/home/images/stories/the-smoke/sky1-premiere-launch_01s.jpg</fanart>
+</item>
+<item>
+<title>FOX 1 (Spanish/English)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/FOX%20UK.png</thumbnail>
+<fanart>http://images2.fanpop.com/image/photos/10400000/Megan-Banner-megan-fox-10459358-500-300.jpg</fanart>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/FOX%20Crime.png</thumbnail>
+<fanart>http://www.maximilianopellegrini.com/wp-content/uploads/2013/03/dexter-di-maximiliano-pellegrini.jpg</fanart>
+</item>
+<item>
+<title>WARNER TV</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Warner%20Bros%20TV.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Ccfo9cJjgGk/TYiugi902iI/AAAAAAAAUbU/F-uLC1tzgj0/s1600/spartbat.jpg</fanart>
+</item>
+<item>
+<title>Fox 1 (Spanish/English)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox Action (Spanish/English)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox Movies (Spanish/English)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox Family (Spanish/English)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox Classics (Spanish/English)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Comedy Central</title>
+<link>rtmp://167.114.65.88/medium/ Playpath=sp swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://tvtoss.com/channel-frames/Comedy_Central/comedy_central_usa_channel_server-1.php live=1</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Comedy%20Central%20UK.png</thumbnail>
+<fanart>http://tosh.mtvnimages.com/images/shows/toshpt0/art/season_4/a_tosh_409_parkour_mashup.jpg?width=0&height=0&quality=0.91&crop=true</fanart>
+</item>
+</items>
+</channel>
+<channel>
+<name>Music Channels</name>
+<thumbnail>http://www.ihdwal.com/wp-content/uploads/2013/09/headphone-ipad-4-wallpaper.jpg</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+<items>
+<item>
+<title>Vevo 1 (HD720P)</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail>https://media.licdn.com/media/p/1/005/0a1/08f/0a9f5fc.png</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<title>Vevo 1</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?b?b*t$</link>
+<thumbnail>https://media.licdn.com/media/p/1/005/0a1/08f/0a9f5fc.png</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>Vevo 2 (HD720P)</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+<thumbnail>https://media.licdn.com/media/p/1/005/0a1/08f/0a9f5fc.png</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>Vevo 2</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?b?b*t$</link>
+<thumbnail>https://media.licdn.com/media/p/1/005/0a1/08f/0a9f5fc.png</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>Vevo 3 (HD720P)</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail>https://media.licdn.com/media/p/1/005/0a1/08f/0a9f5fc.png</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>Vevo 3</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?b?b*t$</link>
+<thumbnail>https://media.licdn.com/media/p/1/005/0a1/08f/0a9f5fc.png</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>VOX Music (HD720P)</title>
+<link>rtmp://stream.smcloud.net/live2/vox/vox_720p</link>
+<thumbnail>http://radiopolska.pl/files/large/e88d53499137d74</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>Party Tv (HD720P)</title>
+<link>rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>MTV</title>
+<link>rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream timeout=15</link>
+<thumbnail>http://ilovefreeconcerts.com/wp-content/uploads/2015/01/MTV-Logo-MTV.jpg</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>MTV</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?</link>
+<thumbnail>http://ilovefreeconcerts.com/wp-content/uploads/2015/01/MTV-Logo-MTV.jpg</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>MTV Dance</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$ timeout=15</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>MTV Hits</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?b?b*t$ timeout=15</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>MTV Rocks</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?b?b*t$ timeout=15</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>MTV Live</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8</link>
+<thumbnail>http://ilovefreeconcerts.com/wp-content/uploads/2015/01/MTV-Logo-MTV.jpg</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>MTV Live</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?</link>
+<thumbnail>http://ilovefreeconcerts.com/wp-content/uploads/2015/01/MTV-Logo-MTV.jpg</thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>TeleHit</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL702/PROFILE01.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>VH1</title>
+<link>rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/ timeout=15</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>VH1</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>VH1</title>
+<link>rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/?b?b*t$</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+<item>
+<title>VH1 Classics</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8?b?b*t$</link>
+<thumbnail></thumbnail>
+<fanart>http://images.coolestwallpapers.com/user-content/uploads/wall/o/15/63ed04888d6bda3792fa641c7c3336ac6f0d156d.jpg</fanart>
+</item>
+
+</items>
+</channel>
+</channels>
